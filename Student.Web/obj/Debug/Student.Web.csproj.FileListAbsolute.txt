@@ -1,0 +1,2 @@
+C:\CC7\HW\HW14\HW13.2\Student.Web\obj\Debug\Student.Web.csprojAssemblyReference.cache
+C:\CC7\HW\HW14\HW13.2\Student.Web\obj\Debug\Student.Web.csproj.CoreCompileInputs.cache
